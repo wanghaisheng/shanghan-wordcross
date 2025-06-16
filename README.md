@@ -1,3 +1,1 @@
-WebSim Vibe Coding Starter
-
-all tools are free 
+给出设计并提供.puz下载格式的crossword的元提示词
